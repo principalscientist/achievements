@@ -3,7 +3,7 @@
 
 ### 2025
 * Advanced Data Analytics Certification, Google Scholar x Mentor Me Collective
-* Speaker at San Jose State University BMES, Bay Area Biomedical Device Conference- The Power of Data in Surgical Robotics (2025)
+* Speaker at San Jose State University BMES, Bay Area Biomedical Device Conference- The Power of Data in Surgical Robotics (2025) (https://www.sjsubmes.org/babmd-conference)
 
 ### 2024
 * BLACK ERG Ambassador, Intuitive Surgical
